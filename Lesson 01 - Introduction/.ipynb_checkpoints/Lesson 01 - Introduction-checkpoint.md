@@ -19,8 +19,7 @@ A function is what a command is known as in Python. For Example, the function to
 > print("This is the print Command")
 
 This will place the sentence This is the print command to the screen.
-Note the structure of the brackets and inverted commas to print a string to the screen.
-## Practice Code
+Note the structure of the brackets and inverted commas to print a string to the screen.## Practice Code
 ### Exercise 01
 Task 01
 Using one print function produce this output
@@ -36,7 +35,7 @@ print("Hello World")
 ```
 
     Hello World
-
+    
 
 Task 02
 Using 2 print functions produce this output
@@ -50,7 +49,7 @@ print("Answer. Instagran")
 
     Question. What do you call it when you have your mom's mom on social media?
     Answer. Instagran
-
+    
 
 Task 03
 Using one print function and this code \U0001f600, produce this output.
@@ -61,7 +60,7 @@ print("\U0001f600")
 ```
 
     😀
-
+    
 
 ### Exercise 02
 Task 01 Using one print function produce this output.
@@ -72,7 +71,7 @@ print("I am learning how to use the newline and tab special characters.")
 ```
 
     I am learning how to use the newline and tab special characters.
-
+    
 
 
 ```python
@@ -91,7 +90,7 @@ print("My favourite animal \nis the giraffe!")
 
     My favourite animal 
     is the giraffe!
-
+    
 
 Task 03 
 Modify the Following Code using the tab command to create the output below
@@ -105,7 +104,7 @@ print("I \tknow \thow \tto \tuse \tthe \ttab \tspecial \tcharacter!")
 ```
 
     I 	know 	how 	to 	use 	the 	tab 	special 	character!
-
+    
 
 Task 04
 Using one print function, produce this output using the newline and tab special characters
@@ -127,7 +126,7 @@ print("Today I learned. \n\tHow to use \n\t\tThe newline \n\t\t\tand tab \n\t\t\
     		The newline 
     			and tab 
     				special characters
-
+    
 
 ### Exercise 03
 Task 01
@@ -146,11 +145,11 @@ print("*********\n*\t*\n*\t*\n*\t*\n*********")
 ```
 
     *********
-    *		*
-    *		*
-    *		*
+    *	*
+    *	*
+    *	*
     *********
-
+    
 
 Task 02
 using just 1 print command recreate the shape below
@@ -172,12 +171,11 @@ print("\t\t\t*\n\t\t*\t\t*\n\t*\t\t\t\t*\n*\t\t\t\t\t\t*\n**********************
     	*				*
     *						*
     **************************************************
-
+    
 
 ### Exercise 04
 Task 01
-Using one print function, produce this square inside a triangle with the word “Python!” inside of the square. Achieve this by using the newline and tab special characters.
-     *
+Using one print function, produce this square inside a triangle with the word “Python!” inside of the square. Achieve this by using the newline and tab special characters.     *
 
 
 
@@ -192,7 +190,7 @@ print("\t\t\t\t\t*\n\t\t\t\t*\t\t*\n\t\t\t*\t*\t*\t*\t*\n\t\t*\t\t*\tPYTHON!\t*\
     		*		*	PYTHON!	*		*
     	*			*		*			*
     *	*	*	*	*	*	*	*	*	*	*
-
+    
 
 
 ```python
@@ -214,7 +212,7 @@ print("\t\t\t***\n\t\t**\t\t**\n\t\t**\t\t**\n\t\t**\t\t**\n\t\t**\t\t**\n\t\t**
     		**		**
     		**		**
     			***
-
+    
 
 
 ```python
