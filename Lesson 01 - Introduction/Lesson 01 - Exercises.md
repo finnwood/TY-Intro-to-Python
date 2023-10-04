@@ -14,8 +14,8 @@ A string is any collection of 2 or more characters in a row. For Example, this s
 
 A function is what a command is known as in Python. For Example, the function to place text on to the screen is the print command and is structured as follows
 
-```
-print(“This is the print command”)
+```python
+print("This is the print command")
 ```
 
 This will place the sentence *This is the print command* to the screen.
@@ -68,8 +68,8 @@ I am learning how to  use the newline and tab special characters.
 Modify this code to replicate the output shown, using only one print function and the newline special character \n.
 
 ```python
-print(“My favourite animal”)
-print(“is the giraffe!”)
+print("My favourite animal")
+print("is the giraffe!")
 ```
 
 ```
@@ -82,7 +82,7 @@ Is the giraffe!
 Modify the Following Code using the tab command to create the output below
 
 ```python
-print(“I know how to use the tab special character!”)
+print("I know how to use the tab special character!")
 ```
 
 ```
@@ -109,9 +109,9 @@ Using one print function, produce this square using the newline and tab special 
 
 ```
 **********
-*    	 *
-*    	 *
-*    	 *
+*    	  *
+*    	  *
+*    	  *
 ********** 
 ```
 
@@ -121,8 +121,8 @@ using just 1 print command recreate the shape below
 
 ```
 			*         
-		*    	*      
-	*           	*    
+		*       *      
+	*           	 *    
  *                  	*   
 ************************** 
 ```
